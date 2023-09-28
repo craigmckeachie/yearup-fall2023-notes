@@ -19,7 +19,7 @@ Notes for the YearUp Pittsburgh Fall 2023 Cohort
 
 ## Terminology
 
-[Synonyms](./glossary/synonyms.md)
+- [Synonyms](./glossary/synonyms.md)
 
 ## Administration
 
