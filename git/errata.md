@@ -1,0 +1,1 @@
+- https://stackoverflow.com/questions/51817479/vscode-please-clean-your-repository-working-tree-before-checkout
