@@ -13,5 +13,8 @@ It will contain two page of information about your favorite city.
 1. Add a header with navigation links to both pages. The header code will be nearly the same if not the same on both pages.
 
    > Make sure to use HTML5 semantic elements
-1. Design the index.html (home) page following the mockup provided.
-1. Design the gallery.html page following the mockup provided.
+
+1. Design the index.html (home) page following the mockup provided below.
+1. Design the gallery.html page following the mockup provided below.
+
+![image](https://github.com/craigmckeachie/yearup-fall2023-notes/assets/1474579/016473d6-9cde-4f84-a048-1c66cbeecd52)
