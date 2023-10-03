@@ -16,6 +16,8 @@
 
 ## Extensions
 
+[How to install an extension](https://code.visualstudio.com/docs/editor/extension-marketplace#:~:text=You%20can%20browse%20and%20install,on%20the%20VS%20Code%20Marketplace.)
+
 Install these extensions.
 
 ### HTML
@@ -72,5 +74,5 @@ Install these extensions.
 - Disable Minimap
 
   ![Mini Map](image-2.png)
-  
+
   ![Disabling Mini Map](image-1.png)
