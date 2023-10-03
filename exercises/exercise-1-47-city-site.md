@@ -12,6 +12,8 @@ It will contain two pages of information about your favorite city.
 
    ![image](https://github.com/craigmckeachie/yearup-fall2023-notes/assets/1474579/5aacc1cc-dae9-4917-a39a-3085cacb7b03)
 
+1. Add the boilerplate tags needed for every HTML page.
+
 1. Add a header with navigation links to both pages. See the mockup provided below.
 
    > The header code will be nearly the same if not the same on both pages.

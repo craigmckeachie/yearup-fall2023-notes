@@ -4,7 +4,7 @@
 
 Revisit your `city-site` project. We are going to add some styling rules to your site.
 
-1. Create a folder for your project named `city-site`.
+1. Open the folder for your project named `city-site` in Visual Studio Code if it is not already open.
 1. In your `css` folder, add an external style sheet named `styles.css`.
 1. Link to the external stylesheet `styles.css` in the `index.html` page so the styles will be applied to the HTML elements on the page.
 1. Using an `element` selector, create a ` CSS rule` that applies to all `paragraphs`. In it, set the font-family to one of the ones from: [W3 Schools Websafe Fonts List](https://www.w3schools.com/cssref/css_websafe_fonts.asp). Make sure to include the fallback font of either serif on sans-serif.

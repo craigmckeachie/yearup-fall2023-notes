@@ -1,8 +1,8 @@
 # Exercise 3-16
 
-In this exercise, you create a `bootstrap-examples`` project and configure a home page to use Bootstrap. It is step 1 for other exercises in this module.
+In this exercise, you create a `bootstrap-examples` project and configure a home page to use Bootstrap. It is step 1 for other exercises in this module.
 
-## Bootstrap Examples
+## Setting up Bootstrap
 
 1.  Create a folder named `bootstrap-examples`.
 1.  **Open** the **folder** in Visual Studio Code.
@@ -21,7 +21,7 @@ In this exercise, you create a `bootstrap-examples`` project and configure a hom
 
     > HINT: Use emmet to do the work for you
 
-1.  Add the meta tags that Bootstrap expects. Then include the `Bootstrap 5.2` framework's `CSS` and `JS`` files from a CDN.
+1.  Add the meta tags that Bootstrap expects. Then include the `Bootstrap 5.2` framework's `CSS` and `JS` files from a CDN.
 1.  Add an `h1` and a `paragraph` to the `index.html` page.
 1.  Test the page to verify that the bootstrap stylesheet changed the look of the page.
 1.  [Download Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/download/) and include the files in the `css` and `scripts` folders respectively.
@@ -33,3 +33,5 @@ In this exercise, you create a `bootstrap-examples`` project and configure a hom
 
         CSS Peek
         HTML CSS Support
+
+    [Details on how to do install the extensions are here](../setup/vscode-config.md).
