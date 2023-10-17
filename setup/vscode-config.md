@@ -76,3 +76,6 @@ Install these extensions.
   ![Mini Map](image-2.png)
 
   ![Disabling Mini Map](image-1.png)
+
+- Code Runner
+  ![Code Runner Execution Message](code-runner-exec-message.png)
