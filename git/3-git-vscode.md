@@ -27,7 +27,7 @@
 
    ![image](https://user-images.githubusercontent.com/1474579/231316655-cfa7bd9d-c758-470c-8b51-8262d96fe393.png)
 
-1. Add some intial files to your project directory.
+1. Add some initial files to your project directory.
 
    ![image](https://user-images.githubusercontent.com/1474579/231316741-a27b8149-a7bb-4405-b446-35cf00d032b6.png)
 
