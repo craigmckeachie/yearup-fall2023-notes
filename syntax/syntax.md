@@ -25,6 +25,7 @@ This will help you remember syntax in coding.
 ```
 
 ### HTML Element
+
 ```html
 <p>This is a paragraph</p>
 ```
@@ -44,12 +45,10 @@ Both `id` and `href` are attributes. An `id` attribute can exist on every elemen
 <a id="productsLink" href="products.html">Products</a>
 ```
 
-
-
 ### Semicolon
 
 ```js
-;
+
 ```
 
 ### Colon
@@ -122,6 +121,27 @@ JackFlash
 let myVariable = "a string";
 ```
 
+### Declaring a Variable
+
+```js
+let myVariable;
+const myNotChangeableVariable;
+```
+
+### Assigned a Variable
+
+```js
+let myVariable;
+//assignment
+myVariable = "something";
+```
+
+### Declaring a Variable and Assigning a Variable (initialization)
+
+```js
+let myVariable = "something";
+```
+
 ### Data Types
 
 ```js
@@ -166,4 +186,42 @@ let condition2 = true;
 if (condition1 || condition2) {
   console.log(" at least one of the condition is true");
 }
+```
+
+### Object
+
+```js
+let myObject = {
+  first: "John"
+  last: "Doe"
+}
+```
+
+### Array
+
+```js
+let myArray = ["a", "b", "c"];
+```
+
+### Array of Objects
+
+```js
+let people = [
+  {
+    first: "John"
+    last: "Doe"
+  },
+  {
+    first: "Jane"
+    last: "Doe"
+  },
+  {
+    first: "James"
+    last: "Madison"
+  },
+]
+
+for(person of people){
+  console.log(person)
+};
 ```
