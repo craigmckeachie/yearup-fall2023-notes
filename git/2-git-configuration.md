@@ -54,3 +54,11 @@
    ```
 
    > Add the `--show-origin`` flag to see the file where the configuration settings are stored
+
+
+   1. Editors
+   ```
+   git config --global merge.tool vscode
+   git config core.editor code --wait
+   git config diff.tool vscode
+   ```
