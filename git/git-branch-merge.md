@@ -42,6 +42,6 @@ git branch -d feature-about
 ```
 
 ```
-// delete branch remotely
+# delete branch remotely
 git push origin --delete feature-about
 ```
