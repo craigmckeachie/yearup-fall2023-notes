@@ -45,15 +45,16 @@
       > ```
 
     - Resolve conflicts by editing the conflicting files manually.
-    - Stage the resolved files for commit:
-      ```bash
-      git add .
-      ```
-    - Commit the changes with a merge conflict resolution message:
+      >If there are no conflicts you can skip the next two bullet point steps.
+      - Stage the resolved files for commit:
+        ```bash
+        git add .
+        ```
+      - Commit the changes with a merge conflict resolution message:
 
-      ```bash
-      git commit -m "Resolve merge conflicts"
-      ```
+        ```bash
+        git commit -m "Resolve merge conflicts"
+        ```
 
 1.  Push the feature branch to Github:
 
@@ -67,7 +68,12 @@
 
     Go to your GitHub repository on github.com.
     Create a new pull request, proposing your changes for review and merging.
-    Specify the main branch and the branch containing your changes (feature).
+
+    Specify the main branch (on the left) and the branch containing your changes (feature: on the right).
+    The arrow should be pointed back at the `main` branch.
+    ```sh
+    main <- feature
+    ```
 
 1.  Review and address feedback:
 
