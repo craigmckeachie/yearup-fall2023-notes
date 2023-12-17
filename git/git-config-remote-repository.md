@@ -21,5 +21,4 @@ Now that the main branch is locked, collaborators cannot directly push changes t
 6. Choose the appropriate permission level for the collaborator (e.g., **Write** access).
 7. Click on the **Add** button to invite the collaborator.
 
-The collaborator will receive an email notification and can accept the invitation to become a collaborator on the repository. Once added, they can create their own branches, make changes, and submit pull requests for merging into the main branch.
-
+> The collaborator will receive an email notification and will need to accept the invitation to become a collaborator on the repository. Once added, they can create their own branches, make changes, and submit pull requests for merging into the main branch.
